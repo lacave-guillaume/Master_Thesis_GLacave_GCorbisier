@@ -1,4 +1,4 @@
-# Master_Thesis
+# Master_Thesis_NOx_Emissions
 The Data file regroups all the excel files recorded by the datalogger
 
 The code file regroups all the codes used for the purpose of this master thesis. There are matlab function and the arduino code from the datalogger. 
